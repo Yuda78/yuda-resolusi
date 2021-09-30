@@ -1,2 +1,3 @@
 - belajar ci4
 - belajar laravel  8
+- membuat aplikasi Point Of Sale(POS)
